@@ -28,3 +28,6 @@ Example Outputs :
 Predicted cost of construction
 Bar chart showing cost contribution of materials
 Pie chart for cost distribution
+
+![Login Page](Screenshot1.png)
+![Prediction Page](Screenshot2.png),(Screenshot3.png)
